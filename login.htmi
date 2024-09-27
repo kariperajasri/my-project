@@ -1,0 +1,50 @@
+<!DOCTYPEhtml>
+<htmllang="en">
+<head>
+<link rel="stylesheet"href="./style.css">
+<title>Longin-FBS,/title>
+</head>
+<body>
+<div class="wrapper">
+<div class="container">
+<header>
+<table width="100%"align="center"cellpadding=0"cellspacing="2">
+<tr>
+<th width="20%"><imgscr="fbs.png"alt="FBSLOGO"width=130'heigth="100"/></th>
+<thcolspan=4>
+<h1 style='color:white;">FBS-WORLD BEST ONLINEEBOOKS WEBSITE<h1>
+</th>
+</tr>
+<table>
+</header>
+<nav>
+<table width="100%"align="center"cellpadding="0"cellspacing="2">
+<tbodyalign="center"style="font-weight:bold,font-size"18px;"">
+<tr>
+<td width="20%"><a href="index.html">Home</a><hr></td>
+<td width="20%"><a href="login.html">login</a><hr></td>
+<td width="20%"><a href="registration.html">registration</a><hr></td>
+<td width="20%"><a href="cart.html">cort</a><hr></td>
+</tr>
+</tbody>
+</table>
+</nav>
+</div>
+<div class="container1">
+<div class="sidebar1"></div>
+<div class="container2">
+<main>
+<center><br>
+<h3>login details</h3><br/>
+<form name="f1">
+<table width="100%"align="center">
+<tr>
+<td>Uuser name:</td>
+<td><input type="text"name="username"></td>
+</tr>
+<tr><td><br></td></tr>
+<tr>
+<td>password:<td>
+<td><inputtype="password"name="password"></td>
+</tr>
+<tr><td><br></td></tr>
